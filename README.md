@@ -1,2 +1,2 @@
 # EjercicioEscuelita
-Somos PNT
+Ejercicio para ingresar a una escuelita
